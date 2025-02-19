@@ -17,6 +17,6 @@ The project is divided into the following stages:
 
 ## How to Try It
 
-1. Generate ANTLR Recognizer for "LexerGram.g4" and "ParserGram.4".
+1. Generate ANTLR Recognizer for "LexerGram.g4" and "ParserGram.g4".
 2. Write your React and JavaScript code in the `Files/test.txt` file within the project directory.
 3. Run the `Main.java` file to parse the code and generate the output (AST + Symbol Table).
