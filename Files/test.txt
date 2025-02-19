@@ -1,0 +1,37 @@
+
+class Animal
+    {
+     constructor(name)
+      {
+       this.name = name;
+
+     }
+
+   }
+    i(i);
+
+       getName(i,y,o);
+
+       myAnimal.getInfo(i);
+
+       console.log(myAnimal.getInfo(i));
+
+
+////anonymous
+const myFunction = function(i) {
+    return 9;
+                               };
+
+
+
+   var anonymousFunction = function() {
+   return 9;
+
+   };
+
+
+////arrow
+   var anonymousFunction = () =>
+   {
+    console.log("MY COMPILER");
+   }

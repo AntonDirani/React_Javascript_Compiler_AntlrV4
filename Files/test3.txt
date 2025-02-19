@@ -1,0 +1,22 @@
+
+
+ const TestHooks = () => {
+
+  useEffect(() => {
+    console.log('Effect executed!');
+  });
+
+  [x, y] = useState(5);
+
+  useContext(something);
+
+  useRef(6)
+
+   useCallback((event) => {
+    console.log('Button clicked!');
+  });
+
+
+  return 5;
+};
+
